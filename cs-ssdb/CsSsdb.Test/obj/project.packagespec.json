@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/CsSsdb.Test/CsSsdb.Test.csproj",
+    "projectName": "CsSsdb.Test",
+    "projectPath": "/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/CsSsdb.Test/CsSsdb.Test.csproj",
+    "outputPath": "/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/CsSsdb.Test/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/CsSsdb/CsSsdb.csproj": {
+            "projectPath": "/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/CsSsdb/CsSsdb.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.6.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.3.1, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.3.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

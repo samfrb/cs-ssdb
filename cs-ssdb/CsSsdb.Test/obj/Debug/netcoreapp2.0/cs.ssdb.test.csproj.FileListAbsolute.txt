@@ -1,0 +1,17 @@
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/cs.ssdb.test/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/cs.ssdb.test/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/cs.ssdb.test/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/cs.ssdb.test/bin/Debug/netcoreapp2.0/cs.ssdb.test.deps.json
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/cs.ssdb.test/bin/Debug/netcoreapp2.0/cs.ssdb.test.runtimeconfig.json
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/cs.ssdb.test/bin/Debug/netcoreapp2.0/cs.ssdb.test.runtimeconfig.dev.json
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/cs.ssdb.test/bin/Debug/netcoreapp2.0/cs.ssdb.test.dll
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/cs.ssdb.test/bin/Debug/netcoreapp2.0/cs.ssdb.test.pdb
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/cs.ssdb.test/bin/Debug/netcoreapp2.0/cs-ssdb.dll
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/cs.ssdb.test/bin/Debug/netcoreapp2.0/cs-ssdb.pdb
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/cs.ssdb.test/obj/Debug/netcoreapp2.0/cs.ssdb.test.csproj.CoreCompileInputs.cache
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/cs.ssdb.test/obj/Debug/netcoreapp2.0/cs.ssdb.test.AssemblyInfoInputs.cache
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/cs.ssdb.test/obj/Debug/netcoreapp2.0/cs.ssdb.test.AssemblyInfo.cs
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/cs.ssdb.test/obj/Debug/netcoreapp2.0/cs.ssdb.test.csproj.CopyComplete
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/cs.ssdb.test/obj/Debug/netcoreapp2.0/cs.ssdb.test.dll
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/cs.ssdb.test/obj/Debug/netcoreapp2.0/cs.ssdb.test.pdb
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/cs.ssdb.test/obj/Debug/netcoreapp2.0/cs.ssdb.test.csprojResolveAssemblyReference.cache

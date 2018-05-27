@@ -1,0 +1,9 @@
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/CsSsdb/bin/Debug/netcoreapp2.0/CsSsdb.deps.json
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/CsSsdb/bin/Debug/netcoreapp2.0/CsSsdb.dll
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/CsSsdb/bin/Debug/netcoreapp2.0/CsSsdb.pdb
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/CsSsdb/obj/Debug/netcoreapp2.0/CsSsdb.csprojResolveAssemblyReference.cache
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/CsSsdb/obj/Debug/netcoreapp2.0/CsSsdb.csproj.CoreCompileInputs.cache
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/CsSsdb/obj/Debug/netcoreapp2.0/CsSsdb.AssemblyInfoInputs.cache
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/CsSsdb/obj/Debug/netcoreapp2.0/CsSsdb.AssemblyInfo.cs
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/CsSsdb/obj/Debug/netcoreapp2.0/CsSsdb.dll
+/Users/bassett/Programming/forks/cs-ssdb/cs-ssdb/CsSsdb/obj/Debug/netcoreapp2.0/CsSsdb.pdb
